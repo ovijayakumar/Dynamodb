@@ -1,0 +1,14 @@
+{
+    "Starships": {
+        "Keys": [
+            {
+                "Registry": {"S": "NCC-75633"},
+                "ShipClass": {"S": "Defiant"}
+            },
+            {
+                "Registry": {"S": "NCC-10376"},
+                "ShipClass": {"S": "Antares"}
+            }
+        ]
+    }
+}
